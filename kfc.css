@@ -1,0 +1,22 @@
+h1{
+font-family: "Showcard Gothic"
+}
+ button:hover{
+width:130px;height:30px;
+	border:2px solid ;
+	background-color:black;
+} 
+*{
+font-family:Times New Roman
+}
+h2{
+font-family:Eras Bold ITC
+}
+
+img:hover{
+width:130px;height:100px
+}
+
+.aa :hover{
+background-color:blue;
+}
